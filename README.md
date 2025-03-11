@@ -81,8 +81,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
 </div>
 
-###
 
+###
 <p align="left">🔥   My Stats :<br>👨‍💻 Name: Md. Kabir Hossain<br>📍 Location: Uttara, Dhaka<br>💼 Role: Mobile Application Developer (Flutter)<br>🛠 Experience: 4+ years<br>📱 Expertise: Flutter, Android, iOS<br>🔥 Key Skills:<br>Flutter & Dart<br>Firebase & Firestore<br>REST & GraphQL APIs<br>State Management (Provider, Riverpod, BLoC)<br>UI/UX & Custom Animations<br>Push Notifications & Deep Linking<br>Payment Integration<br>Git & CI/CD</p>
 
 ###
