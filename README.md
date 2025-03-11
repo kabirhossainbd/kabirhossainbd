@@ -1,8 +1,8 @@
 <br clear="both">
 
-<div align="center">
-  <img height="160" src="https://i.pinimg.com/736x/98/47/db/9847db0f41bce5b0de8f0b9b35f2d411.jpg"  />
-</div>
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Kabir+Hossain;Application+Developer(Flutter);Open-Source+Enthusiast..;4+Years+Of+Experience..;Passionate+About+Learning;Nice+To+Meet+You+....&center=true"></a></p>
 
 ###
 
@@ -27,9 +27,6 @@
   </a>
 </div>
 
-###
-
-<h1 align="center">Hi Dear 👋</h1>
 
 ###
 
@@ -37,7 +34,7 @@
 
 ###
 
-<p align="left">I'm Md. Kabir Hossain, from Uttara, Dhaka<br><br>🔭 I’m working as a Mobile Application Developer (Flutter) with 4+ years of experience, specializing in Android and iOS development.<br>📚 I'm currently learning advanced Flutter techniques, Firebase integrations, and scalable app architectures.<br>⚡ In my free time, I explore new technologies, contribute to open-source projects, and experiment with UI/UX improvements.</p>
+<p align="left">I'm Md. Kabir Hossain, from Bangladesh<br><br>🔭 I’m working as a Mobile Application Developer (Flutter) with 4+ years of experience, specializing in Android and iOS development.<br>📚 I'm currently learning advanced Flutter techniques, Firebase integrations, and scalable app architectures.<br>⚡ In my free time, I explore new technologies, contribute to open-source projects, and experiment with UI/UX improvements.</p>
 
 ###
 
@@ -82,7 +79,11 @@
 </div>
 
 
-###
-<p align="left">🔥   My Stats :<br>👨‍💻 Name: Md. Kabir Hossain<br>📍 Location: Uttara, Dhaka<br>💼 Role: Mobile Application Developer (Flutter)<br>🛠 Experience: 4+ years<br>📱 Expertise: Flutter, Android, iOS<br>🔥 Key Skills:<br>Flutter & Dart<br>Firebase & Firestore<br>REST & GraphQL APIs<br>State Management (Provider, Riverpod, BLoC)<br>UI/UX & Custom Animations<br>Push Notifications & Deep Linking<br>Payment Integration<br>Git & CI/CD</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirhossainbd&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=kabirhossainbd&theme=radical&_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kabirhossainbd&theme=radical&hide_border=false)
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+<br/>
 
-###
+
